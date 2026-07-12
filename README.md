@@ -88,10 +88,6 @@ direct about its scope:
 - The dataset is aggregated and public — no PII, no real-time constraints,
   no access-control complexity.
 
-These are deliberate scope decisions given a 2-hour/day, 3-day build
-window, not oversights — but worth being upfront about for anyone
-evaluating this as an engineering sample.
-
 ## Tech stack
 
 - **Python** (pandas, requests, pyarrow) — extraction and cleaning
